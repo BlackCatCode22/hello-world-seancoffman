@@ -18,7 +18,7 @@ int main()
     tripleInteger = userInteger * 3;
 
     // Output the triple int.
-    cout << "\n The double int is: " << tripleInteger << endl;
+    cout << "\n The tripled int is: " << tripleInteger << endl;
 
 
     return 0;
